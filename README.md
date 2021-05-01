@@ -6,7 +6,7 @@
 
 My name is Selin Oyku Nergiz, I'm a front-end developer in Ankara, who turns designs into a product.
 
-- 💬 Ask me about anything related to CSS/Angular
+- 💬 Ask me about anything related to CSS/JavaScript/Angular
 - 📫 How to reach me: [@selinoykunergiz](https://twitter.com/selinoykuozkan)
 
 ### What I speak...
