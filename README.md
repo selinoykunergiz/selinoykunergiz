@@ -1,19 +1,18 @@
 ### Hi there <a href="https://selinoykunergiz.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![selinoykunergiz's github stats](https://github-readme-stats.vercel.app/api?username=selinoykunergiz&show_icons=true&theme=radical)
-
 ![views](https://komarev.com/ghpvc/?username=selinoykunergiz)
 
 My name is Selin Oyku Nergiz, I'm a front-end developer in Ankara, who turns designs into a product.
 
 - 💬 Ask me about anything related to CSS/JavaScript/Angular
-- 📫 How to reach me: [@selinoykunergiz](https://twitter.com/selinoykuozkan)
+- 📫 How to reach me: [@selinoykunergiz](https://twitter.com/selinoykunergiz)
 
 ### What I speak...
 
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='32' title='HTML'>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='32' title='CSS'>
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' width='32' title='TS'>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='32' title='JavaScript'>
   <img src='https://raw.githubusercontent.com/github/explore/c700f6f5bb68a850405eef411cf878162ff34b59/topics/angular/angular.png' width='32' title='Angular'>
 </p>
@@ -30,7 +29,6 @@ My name is Selin Oyku Nergiz, I'm a front-end developer in Ankara, who turns des
   <img src='https://raw.githubusercontent.com/github/explore/9d47da057258d668c7dba9e9bb9cfcd45e2226e9/topics/git/git.png' width='32' title='Git'>
   <img src='https://github.com/github.png' width='32' title='Github'>
   <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png' width='32' title='NPM'>
-  <img src='https://github.com/netlify.png' width='32' title='Netlify'>
 </p>
 
 ### IDEs...
