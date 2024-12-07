@@ -51,5 +51,5 @@ My name is Selin Oyku Nergiz, I'm a front-end developer in Ankara, who turns des
   <img alt="selinoykunergiz's LinkedIn" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
 </a>
 <a href="mailto:contact@selinoykunergiz.com">
-  <img alt="mail me" width="35px" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png" />
+  <img alt="mail me" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
